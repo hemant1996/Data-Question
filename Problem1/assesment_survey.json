@@ -1,0 +1,321 @@
+[
+  {
+    "type": 1,
+    "name": "Gender",
+    "options": [
+      {
+        "code": 1,
+        "label": "Male"
+      },
+      {
+        "code": 2,
+        "label": "Female"
+      }
+    ],
+    "variable": "v1"
+  },
+  {
+    "type": 1,
+    "name": "Age Group",
+    "options": [
+      {
+        "code": 1,
+        "label": "13-18"
+      },
+      {
+        "code": 2,
+        "label": "19-26"
+      },
+      {
+        "code": 3,
+        "label": "27-35"
+      }
+    ],
+    "variable": "v2"
+  },
+  {
+    "type": 1,
+    "name": "City",
+    "options": [
+      {
+        "code": 1,
+        "label": "Delhi"
+      },
+      {
+        "code": 2,
+        "label": "Jaipur"
+      },
+      {
+        "code": 3,
+        "label": "Mumbai"
+      }
+    ],
+    "variable": "v3"
+  },
+  {
+    "type": 2,
+    "name": "Clothing purchased",
+    "options": [
+      {
+        "code": 1,
+        "label": "Jeans"
+      },
+      {
+        "code": 2,
+        "label": "Shirt"
+      },
+      {
+        "code": 3,
+        "label": "Trouser"
+      },
+      {
+        "code": 4,
+        "label": "Sweater"
+      },
+      {
+        "code": 5,
+        "label": "Coat"
+      },
+      {
+        "code": 6,
+        "label": "Shorts"
+      }
+    ],
+    "variable": "v4"
+  },
+  {
+    "name": "Price Justified",
+    "options": [
+      {
+        "code": 1,
+        "label": "Extremely Agree"
+      },
+      {
+        "code": 2,
+        "label": "Agree"
+      },
+      {
+        "code": 3,
+        "label": "Neither Agree nor disagree"
+      },
+      {
+        "code": 4,
+        "label": "Disagree"
+      },
+      {
+        "code": 5,
+        "label": "Extremely Disagree"
+      }
+    ],
+    "type": 1,
+    "variable": "v5"
+  },
+  {
+    "name": "Good quality",
+    "options": [
+      {
+        "code": 1,
+        "label": "Extremely Agree"
+      },
+      {
+        "code": 2,
+        "label": "Agree"
+      },
+      {
+        "code": 3,
+        "label": "Neither Agree nor disagree"
+      },
+      {
+        "code": 4,
+        "label": "Disagree"
+      },
+      {
+        "code": 5,
+        "label": "Extremely Disagree"
+      }
+    ],
+    "type": 1,
+    "variable": "v6"
+  },
+  {
+    "name": "Occupation",
+    "options": [
+      {
+        "code": 1,
+        "label": "Govt. Service"
+      },
+      {
+        "code": 2,
+        "label": "Private Service"
+      },
+      {
+        "code": 3,
+        "label": "Business"
+      },
+      {
+        "code": 4,
+        "label": "Student"
+      },
+      {
+        "code": 5,
+        "label": "Unemployed"
+      }
+    ],
+    "type": 1,
+    "variable": "v7"
+  },
+  {
+    "name": "Salary Range",
+    "options": [
+      {
+        "code": 1,
+        "label": "0-5L"
+      },
+      {
+        "code": 2,
+        "label": "5L-10L"
+      },
+      {
+        "code": 3,
+        "label": "10L-15L"
+      },
+      {
+        "code": 4,
+        "label": "15L-20L"
+      },
+      {
+        "code": 5,
+        "label": "20L and more"
+      }
+    ],
+    "type": 1,
+    "variable": "v8"
+  },
+  {
+    "name": "If new Product introducted what would you buy",
+    "options": [
+      {
+        "code": 1,
+        "label": "Tie"
+      },
+      {
+        "code": 2,
+        "label": "Caps"
+      },
+      {
+        "code": 3,
+        "label": "Socks"
+      },
+      {
+        "code": 4,
+        "label": "Poncho"
+      },
+      {
+        "code": 5,
+        "label": "Scarves"
+      }
+    ],
+    "type": 2,
+    "variable": "v9"
+  },
+  {
+    "name": "Rate",
+    "options": [
+      {
+        "code": 1,
+        "label": "1 Star"
+      },
+      {
+        "code": 2,
+        "label": "2 Star"
+      },
+      {
+        "code": 3,
+        "label": "3 Star"
+      },
+      {
+        "code": 4,
+        "label": "4 Star"
+      },
+      {
+        "code": 5,
+        "label": "5 Star"
+      }
+    ],
+    "type": 1,
+    "variable": "v10"
+  },
+  {
+    "name": "what you didnt like",
+    "options": [
+      {
+        "code": 1,
+        "label": "Staff behaviour"
+      },
+      {
+        "code": 2,
+        "label": "Clothing Variety"
+      },
+      {
+        "code": 3,
+        "label": "Cleanliness"
+      },
+      {
+        "code": 4,
+        "label": "Location"
+      },
+      {
+        "code": 5,
+        "label": "Price"
+      }
+    ],
+    "type": 2,
+    "variable": "v11"
+  },
+  {
+    "name": "Shopping Experience",
+    "options": [
+      {
+        "code": 1,
+        "label": "1"
+      },
+      {
+        "code": 2,
+        "label": "2"
+      },
+      {
+        "code": 3,
+        "label": "3"
+      },
+      {
+        "code": 4,
+        "label": "4"
+      },
+      {
+        "code": 5,
+        "label": "5"
+      }
+    ],
+    "type": 1,
+    "variable": "v12"
+  },
+  {
+    "name": "Did you avail discount",
+    "options": [
+      {
+        "code": 1,
+        "label": "Yes"
+      },
+      {
+        "code": 2,
+        "label": "No"
+      },
+      {
+        "code": 3,
+        "label": "didn't know"
+      }
+    ],
+    "type": 1,
+    "variable": "v13"
+  }
+]
